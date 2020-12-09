@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
+<p align="center"> Link a la página  https://agreeable-bush-0c0c2d710.azurestaticapps.net/
     <br> 
 </p>
 
